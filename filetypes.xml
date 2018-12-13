@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="financintApplacation" type="CLASS" />
+      <mapping pattern="20181213184859" type="PLAIN_TEXT" />
       <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="yea" type="PLAIN_TEXT" />
     </extensionMap>
