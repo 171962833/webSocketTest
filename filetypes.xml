@@ -5,6 +5,7 @@
       <mapping pattern="20181213184859" type="PLAIN_TEXT" />
       <mapping ext="vue" type="PLAIN_TEXT" />
       <mapping ext="yea" type="PLAIN_TEXT" />
+      <mapping pattern="20181224110206" type="SQL" />
     </extensionMap>
   </component>
 </application>
