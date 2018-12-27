@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +17,9 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.log</mask>
+      <mask>*.lo</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
